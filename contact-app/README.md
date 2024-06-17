@@ -1,3 +1,6 @@
+# A deployed version of the project should look like this
+<img width="1505" alt="image" src="https://github.com/RevanthBalineni-14/ReactStarters/assets/89599670/53dfd346-cff9-4440-a3b7-808fbf1b2bf5">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
